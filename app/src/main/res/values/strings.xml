@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Crop Diseases Detection</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Crop Diseases Detection</string>
+    <string name="nav_header_subtitle">sharifk064@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">হোম</string>
+    <string name="menu_gallery">প্রতিকার</string>
+    <string name="menu_slideshow">ওষুধ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="homepage_text">বাংলাদেশে মোট ফসলী জমির প্রায় ৭০% জমিতে আধুনিক জাতের ধান চাষ করা হয়।"\n"
+        "স্থানীয় জাতের তুলনায় এসব জাতে পোকামাকড়ের আক্রমণ বেশি হয়।
+        "\n"আপনার ফসলের রোগ শনাক্ত করতে নিচের বাটনটিতে চাপ দিন</string>
+    <string name="homebutton">ছবি তুলুন</string>
+    <string name="take_picture">ছবি_তুলুন</string>
+    <string name="number">১৬১২৩</string>
+    <string name="hotline">আপনার ধানের সম্যসাটির সমাধানের জন্য নিচের নম্বরটিতে ফোন করুন</string>
+    <string name="defence">১.পানি ধরে রাখা। \n\n ২.ইউরিয়া বেশি প্রয়োগ করা।</string>
+    <string name="medicine">বাদামী দাগ রোগঃ আইপ্রোডিয়ান(iprodione),প্রপিকোনাজাল(propiconazole)
+    \n\nকান্ড পচা রোগঃ অ্যাজোক্রিট্রোবিন(Azoxystrobin),ট্রাইয়াজলস(Triazoles)\n\n পাতা পোড়া রোগঃ কপার সালফেটের সাথে অনুমোদিত জীবাণুনাশক মিশিয়ে বীজ শোধন
+        করার সুপারিশ আছে।\n\n গাড় বাদামি দাগ রোগঃ নো-ইন নাটিভো।
+
+    </string>
+
+
+</resources>
